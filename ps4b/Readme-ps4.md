@@ -1,4 +1,4 @@
-# PS4a: Sokoban UI
+# PS4: Sokoban
 
 ## Contact
 Name: Jake Shick

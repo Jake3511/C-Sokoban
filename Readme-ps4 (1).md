@@ -33,11 +33,6 @@ Part B: No tests.
 Added a sound that plays when you win, and added a change in texture for whenever the player changed direction, meaning that I included the other three player textures in the zip file and used them to change the players position relative to the their direction.
 
 ## Acknowledgements
-Part A:
-Doctor Daly- Office hours
-
-Porchhay B- Tutor hours
-
 https://www.sfml-dev.org/tutorials/2.6/graphics-sprite.php
 
 https://gamedev.stackexchange.com/questions/114405/problem-with-transparent-textures-in-sfml
@@ -46,14 +41,6 @@ https://stackoverflow.com/questions/6260883/c-function-receiving-an-enum-as-one-
 
 https://en.sfml-dev.org/forums/index.php?topic=27809.0
 
-Part B:
-Doctor Daly- Office hours
-
-Porchhay B- Tutor hours
-
 https://www.youtube.com/watch?v=482weZjwVHY
 
 https://www.geeksforgeeks.org/lambda-expression-in-c/
-
-
-
